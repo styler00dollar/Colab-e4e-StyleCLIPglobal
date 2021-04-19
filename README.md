@@ -1,3 +1,6 @@
+# StyleCLIP + e4e w/ global colab:
+Test on ffhq dataset only: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/orpatashnik/StyleCLIP/blob/main/notebooks/e4e+StyleCLIPglobal.ipynb)
+
 # StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery
 
 Optimization: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/orpatashnik/StyleCLIP/blob/main/notebooks/optimization_playground.ipynb)
