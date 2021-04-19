@@ -1,5 +1,6 @@
 # StyleCLIP + e4e w/ global colab:
-Test on ffhq dataset only: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/orpatashnik/StyleCLIP/blob/main/notebooks/e4e+StyleCLIPglobal.ipynb)
+Test on ffhq dataset only: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bycloudai/StyleCLIP-e4e-colab/blob/main/notebooks/e4e%2BStyleCLIPglobal.ipynb)
+eveything else below is the same as the original GitHub
 
 # StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery
 
