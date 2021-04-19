@@ -29,7 +29,7 @@ if __name__ == "__main__":
     names=os.listdir('./data/'+dataset_name+'/')
     for name in names:
         if '.jpg' in name:
-            os.system('rm ./data/'+dataset_name+'/'+name)
+            os.remove('./data/'+dataset_name+'/'+name)
     
     
     #%%
