@@ -1,4 +1,4 @@
-# StyleCLIP + e4e w/ global colab:
+# e4e + StyleCLIP w/ global colab:
 Test on ffhq dataset only: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bycloudai/StyleCLIP-e4e-colab/blob/main/notebooks/e4e%2BStyleCLIPglobal.ipynb)
 
 eveything else below is the same as the original GitHub
